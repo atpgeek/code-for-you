@@ -1,7 +1,0 @@
-height = float(input("please enter height:"))
-radian = float(input("please enter radian:"))
-pi=3.14
-volume = height * radian *radian * pi
-sur_area =( 2*pi*radian*height)+((pi*radian**2)*2)
-print ("volume is:",volume)
-print("sur_area is:",sur_area")
